@@ -1,0 +1,1 @@
+java -cp classes org.erik.chess.Chess
